@@ -1,6 +1,5 @@
-# 🏫 School Management System - TypeScript
-
-A comprehensive school management system built with TypeScript, demonstrating various TypeScript features including types, interfaces, enums, classes, and advanced data structures.
+# School-Management-System
+🏫 Full-featured School Management System in TypeScript with student/teacher CRUD operations, grade management, statistical reports, and advanced filtering capabilities
 
 ## 📋 Features
 
